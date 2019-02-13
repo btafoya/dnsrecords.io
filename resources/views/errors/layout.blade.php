@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover">
     <link rel="dns-prefetch" href="https://fonts.googleapis.com">
 
-    <title>@yield('title') ~ dnsrecords.io</title>
+    <title>@yield('title') ~ dig.tafoyaventures.com</title>
 
     <link href="https://fonts.googleapis.com/css?family=Fira+Mono:400,700" rel="stylesheet">
     <link rel="stylesheet" href="{{ mix('/css/app.css') }}">
@@ -23,7 +23,7 @@
 <body class="layout -error">
     <header class="header">
         <h1 class="title -error">
-            <a href="https://dnsrecords.io">dnsrecords.io</a>
+            <a href="https://dig.tafoyaventures.com">dig.tafoyaventures.com</a>
         </h1>
     </header>
     <main class="main">

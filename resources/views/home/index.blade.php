@@ -5,7 +5,7 @@
 <header class="header">
     <h1 class="title">
         <span class="carret">~</span>
-        dnsrecords.io
+        dig.tafoyaventures.com
     </h1>
 </header>
 <main class="main">
